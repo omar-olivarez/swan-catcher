@@ -1,0 +1,316 @@
+The 20 most different people on deathrow (top 3.70 percent)
+
+---------------------------------------------------------------------------------------------------------
+Rank:  1  Name: 286     Prop. of words that are special: 0.918919   Num of special words:  84Age:   47  Race:      White
+
+           became        expressed            three          houston        committed           moment
+           letter              mid            upset             real          violent        courtroom
+           worked      fabrication            blood           guilty            mayor              due
+       unprovoked            anger             deal            words           morgan           jurors
+             half           crimes           police           months          stopped         sentence
+          reacted         offender            cover            woman            angry         speaking
+             acts           filled            hands        informant            chief           injury
+          control            wrote              car            james           gaines             head
+          defense           walked           reflex      frustration          earlier        chronicle
+         problems          officer          talking         evidence             beat           dealer
+         possibly            heard          boswell      responsible             face           murder
+          killing            acted             self            crack          beating         physical
+              mad              dea         suffered             fire             clay           voices
+           raised            world            prove             five             left             case
+
+
+---------------------------------------------------------------------------------------------------------
+Rank:  2  Name: 274     Prop. of words that are special: 0.896552   Num of special words:  47Age:   30  Race:      Black
+
+         pastures            dwell            shall         presence           waters             walk
+             soul             mine         shepherd            green           shadow            staff
+          leadeth            mercy           maketh          enemies        anointeth              rod
+              yea        preparest           beside              art            house          forever
+             head             sake           surely              oil              lie             fear
+           valley         goodness             name            table        restoreth          comfort
+    righteousness          runneth             evil             thou            paths              cup
+             amen              thy           follow           though             days
+
+---------------------------------------------------------------------------------------------------------
+Rank:  3  Name: 503     Prop. of words that are special: 0.891892   Num of special words:  30Age:   55  Race:      White
+
+            proxy           steven           relief          douglas      confinement        immediate
+         nicholas             alan        velasquez           guilty          everett           crimes
+          pending         sentence          protest           robert            state        execution
+          feldman           either           demand            force          holding            texas
+        illegally           hereby          carried           august          declare             fact
+
+
+---------------------------------------------------------------------------------------------------------
+Rank:  4  Name: 214     Prop. of words that are special: 0.852273   Num of special words: 111Age:   38  Race:      White
+
+            stars             well              die          mcbride            three           hunger
+             brag            great             leap            hopes           gentle           flight
+         personal           awaken            shall       huntsville             away             weep
+          company            gifts              cry            quiet           lifted           autumn
+            final           manner          written      corinthians            night             rich
+         provoked          blessed             full         believes          rejoice       beatitudes
+         greatest             kind            shine            grave        supremacy                l
+         received          patient               ye            grain          chapter           signed
+          circled             poor         sunlight              act            truth         separate
+            sleep           filled          jealous         reproach            abide          ripened
+            swift          diamond           behold             seek      consolation          account
+          tongues             sake             moan          kingdom         rejoices             cast
+              joy            stand           glints             rush            speak             snow
+            birds              woe             soft            fails             name            false
+            texas        following             hate         prophets         arrogant           reward
+          fathers             unto             poem       unbecoming            bears             hush
+  unrighteousness             evil        uplifting              men          morning             rain
+          michael         suffered            laugh            faith         prophecy        disciples
+            cease          endures             eyes
+
+---------------------------------------------------------------------------------------------------------
+Rank:  5  Name: 67      Prop. of words that are special: 0.840909   Num of special words:  34Age:   29  Race:      Black
+
+        committed           felony               st             true          lasting         retarded
+         sentence             ever              act      ineffective          execute       assistance
+          justice   rehabilitation          counsel            young    discriminates             male
+        execution      contaminate        persecute       confession          revenge             plus
+            blind             pile        witnesses             jury           option            white
+            judge       borderline          created              add
+
+---------------------------------------------------------------------------------------------------------
+Rank:  6  Name: 71      Prop. of words that are special: 0.818182   Num of special words:  42Age:   59  Race:      Black
+
+            lives            press             took         disciple             type          rescued
+        situation           guilty        certainly           person            drawn           energy
+         wretched            knows             siff    unintentional       instrument            place
+         feelings          devoted          ireland            truly            islam       discomfort
+            allah      unfortunate            given          sending              mrs           cannot
+         deceased        determine            media          remorse          express            power
+           murder             wife           mishap             iris        regarding         incident
+
+
+---------------------------------------------------------------------------------------------------------
+Rank:  7  Name: 195     Prop. of words that are special: 0.800000   Num of special words:  45Age:   39  Race:   Hispanic
+
+             mama            three         merciful              sky            shall              sin
+           mighty             holy             told          blessed           praise             lead
+            thine          debtors             ever            bread              art            hands
+         almighty          forever            glory           commit          trinity          kingdom
+              sea       temptation             name             thee             song           spirit
+            power          deliver            works             evil            hello            daily
+          morning          persons            early               oh            earth           isabel
+             amen              thy             rise
+
+---------------------------------------------------------------------------------------------------------
+Rank:  8  Name: 419     Prop. of words that are special: 0.783784   Num of special words:  91Age:   42  Race:      White
+
+            three              ran             help           prison             late             took
+              aid             else             dope             made        polygraph            later
+           career             owed          waiting             told           picked            tried
+            asked             drug             deaf        confusion              cut           police
+              two         attacked            veins           helped         bathroom           pulled
+         downtown              act        innocence         criminal             road         finished
+            house            fight              ear          stabbed           street              cdl
+             high          bedroom             yard           dallas           passed           around
+            adams             tact      involvement     christianity          telling             turn
+           active           anyone             vick            donna             went          talking
+            story             john           killed            deals              hit             lied
+            drugs           turned      volunteered           driver             adam            power
+             came            favor            stuff             died          someone             gave
+           throat            truck          jonesin                v            famly            prove
+          closure             loud             sold        christian          thought             left
+             days
+
+---------------------------------------------------------------------------------------------------------
+Rank:  9  Name: 219     Prop. of words that are special: 0.766423   Num of special words:  78Age:   48  Race:      White
+
+           sooner            fired           called         supposed             work             okay
+             last           behind              ran        convicted          general             sell
+             wait          appeals             away             file          records            along
+            later            doubt           person             told             arms        falsified
+       understand           police            knows            paper              guy           thomas
+              big           lawyer           record             king         document          altered
+             dead            rebut           saying            mason          getting            court
+             fine        arguments             hero          lawyers              use            trial
+       conspiracy            wants             look         attorney          showing             jack
+              gun           making        destroyed         evidence              put           nobody
+           skains         sputnick        signature        somewhere        illegally             sure
+             till            filed         district           office          michael            saved
+            laugh             fair            prove        testimony       contradict          hearing
+
+
+---------------------------------------------------------------------------------------------------------
+Rank: 10  Name: 431     Prop. of words that are special: 0.759615   Num of special words:  68Age:   51  Race:      Black
+
+              die           living          purpose          meaning           church          without
+         compared            helen        civilized            minds             full       understand
+            began         polunsky       suppressed             feel             aunt         resident
+        terrfying         existing             rose           enable             says            luise
+         darkness         isolated            walls        affection            place           filled
+          justice           joanna   unforgivesness       terrifying           solace          singing
+             rest             lift             live          crushed       christians          penalty
+           demand           anyone           within          country     satisfaction              bye
+             name         pleasure             call        community          pastors            thing
+           murder             yall          proceed             ache          looking          dungeon
+              end           voices          society             free     hopelessness           hearts
+              pit             stop
+
+---------------------------------------------------------------------------------------------------------
+Rank: 11  Name: 9       Prop. of words that are special: 0.753968   Num of special words:  69Age:   43  Race:   Hispanic
+
+          houston             gets        stretcher         merciful          mexican           behind
+        convicted              boy             help              tie          tonight             seat
+        suspended           torres         murderer             jose            anger            bunch
+             pump           police       bitterness            veins         sentence             blow
+             body           locked          drowned        probation            equal          justice
+     truthfulness            threw            steve            worth             door             shot
+              car            river        policeman          anybody           killer       friendship
+              old            walsh          sanders          blooded           anyone          officer
+           killed             beat             call          america             sins            thing
+        murderers              ray        spiritual          someone         hollered         thirteen
+             year              bob           poison            kills          society             cold
+         forgives       handcuffed            campo
+
+---------------------------------------------------------------------------------------------------------
+Rank: 12  Name: 222     Prop. of words that are special: 0.741554   Num of special words: 213Age:   39  Race:      Black
+
+           winnie          sincere        barbarity         brothers            facts           called
+            stood              win          leaders            march             last             less
+            loose           behind          dignity        daughters             sons         standing
+            heads           racist        surrender           simple             part            shall
+             pure           jagger         fighting          tonight   unintelligible        happening
+             suit            black       supporting         marching             file           united
+             push            video             gary          endured       moratorium        civilized
+             gain          happens     overwhelming       compelling       executions             move
+           nelson            doors         continue            queen            grave         sharpton
+            tapes              law        protested             hold          avenged           thanks
+           graham         maintain          jackson           refuse          brought          murders
+    revolutionary            means          african             poor         properly            bobby
+             body          freedom             king          outrage       chimurenga           outlaw
+        something            truth               mr    international       solidarity            place
+          exposed        innocence          warrior         anywhere          protest         finished
+          believe          destiny         beatings           public           nation        murdering
+           battle         remember            carry           luther           robert                x
+          message            state             high              war         pursuing        forgotten
+             head             unit          defense       resistance       sanctioned        execution
+            court          anybody           around             many           malcom               al
+           preach       revolution            guilt           across            order         strength
+            stand           martin          penalty         murdered           moving       systematic
+          sankofa             look             next        necessary           demand          assured
+            faced          prevail           cannot          brother          victory          country
+         lynching           avenge         evidence         reverend         endeavor             name
+             beat            legal       liberation           taking             kept        community
+             past            cause            unity       compromise         mohammed          america
+           spirit          express          courage            heard        presented             sure
+           closed            power        tradition            thing        recognize           murder
+            shaka          killing             died         overcome         minister           string
+            jesse        brutality         children             must        wonderful          ashanti
+              men           bianca        condition         genocide             kill           period
+      acknowledge            admit              end          slavery         liberate           others
+         publicly          forward            faith            world            prove         together
+        injustice            south         blessing          rallied          mandela          lambert
+             stop           really            gonna
+
+---------------------------------------------------------------------------------------------------------
+Rank: 13  Name: 443     Prop. of words that are special: 0.739130   Num of special words:  48Age:   32  Race:      White
+
+         pastures            shall         presence          tonight           waters             tony
+             walk             soul             mine         shepherd            night            green
+      khristopher           shadow          leadeth           maketh          warmest               pa
+          enemies              yea               mr        preparest           beside              art
+             head        whiteside           wishes              oil              lie             fear
+           kristy          collins           prayed           valley            table        anointest
+           guides        restoreth          runneth             evil             thou            paths
+          looking             best              cup          closure            every           though
+
+
+---------------------------------------------------------------------------------------------------------
+Rank: 14  Name: 304     Prop. of words that are special: 0.738095   Num of special words:  55Age:   56  Race:      White
+
+         pastures            makes            dwell            shall         presence           waters
+       supporting             walk             soul             hear         shepherd         restores
+            green           shadow          keeping            staff            mercy          enemies
+              rod              yea         ministry            chris        preparest           beside
+              art            house          forever             nice             head             sake
+           surely              oil             word              lie             fear              bye
+           valley         goodness             name            table            media        anointest
+          comfort    righteousness            leads          runneth             evil             thou
+            paths          michael              cup              thy           follow           though
+             days
+
+---------------------------------------------------------------------------------------------------------
+Rank: 15  Name: 494     Prop. of words that are special: 0.717949   Num of special words:  26Age:   50  Race:      Black
+
+             away              rob           hilton          driving              saw           abused
+           newman               ms              two             gone               mr      transcripts
+            house           killer             look           killed            momma           harmed
+            stuff             kill            truck            alive            raped           connie
+            lived            stole
+
+---------------------------------------------------------------------------------------------------------
+Rank: 16  Name: 262     Prop. of words that are special: 0.717949   Num of special words:  26Age:   29  Race:      Black
+
+           counts         admitted             last        convicted             real            later
+          watkins             drug           lawyer           street          dealers            james
+               th       wrongfully       confession            crime              put            false
+             send         williams             side             jury             kill           august
+          michael             east
+
+---------------------------------------------------------------------------------------------------------
+Rank: 17  Name: 388     Prop. of words that are special: 0.714286   Num of special words:  81Age:   42  Race:      Black
+
+           little           doctor           sammie            facts          wearing           courts
+             guys             vein           prison             away             took           bitter
+            broke              cry            video             else           friend     investigator
+             bury              law           helped       transition            randy          yolanda
+            cover            woman            chris           crying        something           beside
+            think             hand             long         michigan        schaeffer             doug
+             used          needles            state       overplayed          nephews            james
+           judges            allah             ward           forget            debra              sad
+             look           anyone         watching          brother              put             hate
+           diaper         cemetery            momma        somewhere          trouble          killing
+             side             evil              dad           better              kim           coming
+              mad           office          looking            david           nieces            aside
+            stuck          wedding            marcy            gonna             left          vincent
+           reason           though            greer
+
+---------------------------------------------------------------------------------------------------------
+Rank: 18  Name: 287     Prop. of words that are special: 0.711538   Num of special words:  60Age:   66  Race:      White
+
+             well             jane            fired            three           report            larry
+           church             else        different        confessed              kid             damn
+           molest            tests             feel            grace           police              two
+             fort          parents          several             need           asking             laid
+         ashworth              dna        something           bullet            think            front
+              run            house            north        murdering             hell          matched
+            worth             shot          bedroom         patterns            times             west
+             look           wanted           anyone           killed             wall             sure
+          killing          request        wonderful            shots             kill            seven
+              bed            saved            third             east             eyes           really
+
+
+---------------------------------------------------------------------------------------------------------
+Rank: 19  Name: 474     Prop. of words that are special: 0.708333   Num of special words:  29Age:   31  Race:      White
+
+             well         strapped             walk          witness             feel       completely
+             tali         somebody             ever        something          justice           marcus
+          believe        execution             pull          anybody           around          trigger
+            ahead          goodbye           killed            thing           murder          someone
+           coming          screwed             free            whole           rhodes
+
+---------------------------------------------------------------------------------------------------------
+Rank: 20  Name: 270     Prop. of words that are special: 0.706250   Num of special words:  94Age:   25  Race:      Black
+
+         peaceful         conflict        committed             gets         supposed             gift
+        profanity           luttig             help            upset            walks          protect
+          tonight             away        happening         saddened             made             seem
+           person           anyway            tried       understand             mind        instances
+             feel          willing     disappointed          started            shout          chances
+             fell         shameful        recovered            hurts          parties              act
+        something           scream            think          justice           system        senseless
+          believe             long       victorious         emotions           chance           wrongs
+             live              yet           uphold           ideals              use             mess
+          victims          telling             undo         struggle        misguided            cases
+             john           second           matter              put          threats          heinous
+          problem          mistake       compromise           happen    participating             idle
+        difficult            sides       resounding       proceeding          killing             died
+          someone         children             wins          dispose              men            clash
+              fix              end            world       restraints          closure            begin
+             eyes           longer       physically           though

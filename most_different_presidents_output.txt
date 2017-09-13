@@ -1,0 +1,100 @@
+The 3 most different presidents (top 7.69 percent)
+
+---------------------------------------------------------------------------------------------------------
+Rank:  1  Name: Martin Van Buren  Prop. of words that are special: 0.097636   Num of special words: 179
+
+               nd        referring              mai            reply             timi       unwavering
+     exasperation         coercive      confessedly            chain          mmunity          governs
+           devoti           tizens            beyon           outrun      prospective       vibrations
+     pleasantness           unlike    predominating            ality               ha               ci
+          elevate          avowing        assuredly           anting           molest            arose
+        titutions         umerable         sensibly       conjecture              ose         citement
+               ex           meddle              exp        preserves      overlooking           parted
+         implicit              ate             befo             poss        theorists        imperious
+              ses       assumption              inn         deserted      undeviating        unequaled
+              pra        unfitness        imitating         inviting             circ       ungrateful
+      unsurpassed      exhaustless                h     prosperously       explicitly        impresses
+          foresaw        nticipate              ism          hastily          nflicts         compacts
+            subje          concess            gover     counteracted        accompany            opini
+             hile         opponent          averted      exemplified         factions        predicted
+       sedulously         calendar       terrifying              ich       incredibly         agreeing
+      exhibitions                n                w        deviation         disclaim               ed
+              ion        superiors               ct        denounced        countless           murmur
+         consciou         alacrity         remotest           elevat        coordinat            chair
+              ome     intelligible       foreboding           avowal           renown           tended
+            atone                e          riminal        reflectio        obtrusive             tain
+       remarkably               em               wi          erience        uninjured              ess
+              ing        uniformly        excepting            nment     circumstance             ions
+        memorable            expen              dis        gratified     overbalanced           etimes
+         imparted        evidently              som     slaveholding            ntain   insurmountable
+     unanswerably            neutr                f           staple              rel          solicit
+        balancing          cordant       unfriendly         volution          evening              onl
+        provident         unctions        patriotis       contending            twice          viewing
+      efficiently         exaction       outrunning        bounteous          doubled          teeming
+         performs           minute               wh           belove   multiplication       authorizes
+               le             qual              ins        intellect        abridging
+
+---------------------------------------------------------------------------------------------------------
+Rank:  2  Name: Warren G. Harding  Prop. of words that are special: 0.092442   Num of special words: 149
+
+      translating        mutuality        glorified         initiate          prowess        supersede
+   interdependent      reassurance           luring            inure        lifeblood           reflex
+          revenge           cradle         contacts        clarified          builded        mediation
+         abnormal            cycle            rivet internationality           seemly       slackerism
+           gaping       materially      unspeakable        entangled             holy      disarmament
+      spiritually          riveted      probability       unbalanced        lightened     discouraging
+       atmosphere            crave        jealously         sedition       embittered      misconstrue
+           rocked       inherently             jars      overturning      friendliest            unify
+    compensations        readjusts        aftermath           noting            flows       devastated
+  disorganization         delirium          reliant          wastage           befits           plight
+         comrades      questioning          baptism          cargoes        appraisal          outlaws
+        autocracy         wreckage      repudiation        aloofness          fallacy             sane
+       assignment            penny        revisions    unselfishness          hateful          travail
+           herein           blight         pitiable       dependable       referendum          thereto
+         receding        thirsting          effaced        disorders    misunderstand       suggesting
+        childhood     reformations          tariffs        ambiguity         breathes          acclaim
+      impassioned          bottoms       staggering   unpreparedness      mindfulness         omission
+         blotches          insists       intuitions           convey      sympathetic    industrialism
+        reversion          notably       evolutions           comity        engenders        desolated
+         intimacy          swollen         inimical      impregnable           unfurl            chest
+          implore          beating           senses          bidding       reassuring        withstood
+           galaxy       ruggedness           evenly          squared         recorded          clogged
+         comities            flout           afresh          hungers             fury          scoffed
+  supergovernment   noninvolvement         crushing      approximate      measureless        illumined
+            surge         reverent        associate       mindedness         mingling
+
+---------------------------------------------------------------------------------------------------------
+Rank:  3  Name: Ronald Reagan  Prop. of words that are special: 0.086017   Num of special words: 191
+
+        borrowing    proportionate        penalizes   industrialists         obsolete         monument
+          heroism             wood     truckdrivers           pushes    professionals        reelected
+      proportions        reservoir          columns        unknowing            miles            climb
+            elite             core              rob           sunset         spending          singled
+          halfway          handled        overwhelm          cabbies          rainbow       discussing
+       heartening          causing           makeup         reawaken            alamo             ride
+          stennis            beach          sloping          sending         simplify         fraction
+            knees             sing          crosses           marker          settler        retaliate
+       incentives        journeyed           slowed           echoes           ethnic            famed
+              oar           boston        eloquence           joseph      intentioned          winston
+         wavering             kill          ponders       occurrence          markers           warren
+            omaha            david       transcends          belleau        routinely             tool
+       roadblocks           moomaw          jungles          smother          machine       staunchest
+       affliction            paces         backward          mathias    reestablished       battalions
+          handful        solutions          freeing        misjudged           inches          started
+          shatter          yielded           burger         deficits          vibrant    entrepreneurs
+             hill       nationhood          bloated             hero            neill       monumental
+          killing         sunlight       mortgaging           poised            diary         belonged
+           daring        installed         meetings          paddies          potomac              cry
+         freezing              rid            breed          soviets           ribbon          crushes
+         memorial    massachusetts             curb        inflation          salerno          treptow
+            scorn       militarize      shopkeepers        indignity         exemplar           barber
+           gillis        heartened          buildup           lonely            vista      guadalcanal
+       paraphrase          mondale          bastion          upgrade        churchill          runaway
+            anger            staff             rode         punitive         restated            dared
+         fourfold             tiny           clerks         straight           chosin             chop
+           rivals           lawyer        unfurling              row        inventory           target
+           giants          retired        reckoning    disadvantaged       meaningful     dramatically
+       capability          dynamic          someone            baker     demilitarize            adams
+            sings         distorts         softened           poetry           futile         hatfield
+           infirm           tarawa          shrines         cemetery    misunderstood             grip
+       vindicated             pork          flyleaf  entrepreneurial     prescription
